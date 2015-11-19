@@ -1,0 +1,131 @@
+{
+    "en": "English",
+    "es-ES": "Spanish",
+    "fr": "French",
+    "No additional pages": "No additional pages",
+    "Previous": "Previous",
+    "Next": "Next",
+    "Item": "Item",
+    "Quantity": "Quantity",
+    "Price": "Price",
+    "Subtotal": "Subtotal",
+    "Tax": "Tax",
+    "Shipping": "Shipping",
+    "Total": "Total",
+    "Checkout with PayPal": "Checkout with PayPal",
+    "Get Directions": "Get Directions",
+    "Submit": "Submit",
+    "Form submitted successfully": "Form submitted successfully",
+    "There was an error submitting your form": "There was an error submitting your form",
+    "Permanent Link": "Permanent Link",
+    "Logged in as": "Logged in as",
+    "Login successful": "Login successful",
+    "Your username or password is invalid": "Your username or password is invalid",
+    "Email": "Email",
+    "Password": "Password",
+    "Login": "Login",
+    "Registration successful": "Registration successful",
+    "There was a problem registering": "There was a problem registering",
+    "All fields are required": "All fields are required",
+    "First Name": "First Name",
+    "Last Name": "Last Name",
+    "Register": "Register",
+    "Searching...": "Searching...",
+    "No results found": "No results found",
+    "Language": "Language",
+    "Add to Cart": "Add to Cart",
+    "Welcome": "Welcome",
+    "Logout": "Logout",
+    "Sign In": "Sign In",
+    "Last modified by": "Last modified by",
+    "Direction": "Direction",
+    "Clear Cart": "Clear Cart",
+    "560bf961a2ac8": {
+
+    },
+    "560bf9619d257": {
+        "pageId": "560bf9619d257",
+        "name": "Home",
+        "url": "index",
+        "description": "Welcome to your new homepage created with Respond CMS",
+        "includeOnly": "0",
+        "h3-2": "Il Paintball",
+        "p-5": "Il paintball \u00e8 uno sport &nbsp;il cui scopo \u00e8 eliminare l\u2019avversario colpendolo con delle palline di gelatina riempite di vernice vivacemente colorata, sparate mediante appositi strumenti&nbsp;ad aria compressa chiamatimarker (marcatori). Data la velocit\u00e0&nbsp;d\u2019impatto la capsula&nbsp;del&nbsp;proiettile&nbsp;si rompe al contatto con l\u2019obiettivo, rilasciando il contenuto sulla tuta dell\u2019avversario.&nbsp;Contrassegnato una volta da un \u201cpaintball\u201d, un giocatore \u00e8 eliminato e per rientrare deve attendere un tempo prestabilito o l\u2019inizio della partita successiva. Questo gioco viene regolarmente praticato anche a livello agonistico, in competizioni, campionati in tutto il mondo e tornei.",
+        "h3-1": "Cosa Portare",
+        "p-2": "Per poter giocare al campo di Parma \u00e8 necessario che ogni giocatore sia provvisto del<b> modulo di accettazione del&nbsp;regolamento<\/b> interno&nbsp;del campo scaricabile&nbsp;<a title=\"Accettazione Regolamento\" href=\"http:\/\/www.paintballparma.it\/wp-content\/uploads\/2013\/06\/Sottoscrizione-Regolamento1.pdf\" target=\"_blank\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: rgb(61, 22, 87) !important; background-position: initial;\"><b>qui<\/b><\/a>. L\u2019et\u00e0 minima&nbsp;per poter giocare&nbsp;\u00e8 14 anni. I <b>giocatori minorenni<\/b> dovranno munirsi&nbsp;dell\u2019apposito modulo per minorenni, scaricabile&nbsp;<a title=\"Sottoscrizione Minori\" href=\"http:\/\/www.paintballparma.it\/wp-content\/uploads\/2013\/06\/Sottoscrizione-Regolamento-minori1.pdf\" target=\"_blank\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: rgb(61, 22, 87) !important; background-position: initial;\"><b>qui<\/b><\/a>, firmato e compilato da un genitore.&nbsp;I giocatori minorenni&nbsp;sprovvisti di tale modulo non potranno accedere al campo da gioco.&nbsp;L\u2019<b>abbigliamento<\/b> consigliato \u00e8 pantaloni e maglia a maniche lunghe adeguatamente pesanti, un cappellino ed eventualmente dei guanti.",
+        "p-1": "",
+        "h3-5": "Dove Siamo"
+    },
+    "560c2f7a4dd18": {
+
+    },
+    "560bf961aae18": {
+        "pageId": "560bf961aae18",
+        "name": "Booking",
+        "url": "page\/booking",
+        "description": "A contact us form is a great way for others to get in touch",
+        "includeOnly": "0",
+        "h1-1": "Prenota",
+        "p-1": "E' possibile prenotare <b>dalle 09:00 alle 17:00 tutti i giorni, domenica compresa<\/b>. Per prenotare basta semplicemente compilare il form sottostante.&nbsp;",
+        "p-2": "In alternativa mandare una mail a&nbsp;<b>paintball.sarzana@gmail.com<\/b>&nbsp;indicando:",
+        "p-7": "Oppure telefonare ad uno dei numeri nei <b>Contatti<br><\/b>",
+        "p-5": "Il numero minimo di giocatori per poter organizzare una partita \u00e8 8 (4 vs 4) mentre un numero massimo non c\u2019\u00e8 in quanto se i giocatori dovessero diventare troppi per fare due squadre si organizza un \u201ctorneo\u201d. Si suggerisce di effettuare la prenotazione con almeno un giorno di anticipo. Si raccomanda di prestare attenzione nell\u2019inserimento del numero di cellulare perch\u00e8 \u00e8 l\u00ec che sar\u00e0 inviata la conferma della prenotazione.",
+        "p-3": "Form di prenotazione:",
+        "p-4": ""
+    },
+    "560bf961a1123": {
+
+    },
+    "560bf9619fb2d": {
+
+    },
+    "560bf961a50d0": {
+
+    },
+    "560bf961a8318": {
+        "pageId": "560bf961a8318",
+        "name": "Modalit\u00e0",
+        "url": "page\/games",
+        "description": "A sample about page to introduce yourself or your business",
+        "includeOnly": "0",
+        "h2-1": "Tipologie di gioco",
+        "p-1": "Il nostro campo da paintball offre la possibilit\u00e0 di giocare e divertirti secondo la modalit\u00e0 che pi\u00f9 preferisci, dandoti la possibilit\u00e0 di scegliere e provare tutti i tipi e gli stili di gioco descritti.&nbsp;Le modalit\u00e0 che vi proponiamo sono le seguenti:",
+        "h3-1": "<u>Team Deathmatch<\/u>",
+        "p-2": "Le due squadre in campo si affrontano partendo entrambe dalla propria base,con l\u2019obiettivo di eliminare completamente la squadra avversaria. Ogni qualvolta un giocatore viene colpito e macchiato da una paintball \u00e8 da ritenersi eliminato, e costretto ad uscire dal campo di gioco fino all\u2019inizio della partita successiva. Pu\u00f2 capitare che un colpo a distanza notevole non si rompa e non macchi un giocatore, in tal caso egli \u00e8 tenuto a chiedere conferma della mancata rottura del colpo ad un compagno di squadra o ad un componente dello staff. La partita \u00e8 da ritenersi conclusa quando una delle due squadre viene completamente eliminata.Le due squadre in campo si affrontano partendo entrambe dalla propria base,con l\u2019obiettivo di eliminare completamente la squadra avversaria. Ogni qualvolta un giocatore viene colpito e macchiato da una paintball \u00e8 da ritenersi eliminato, e costretto ad uscire dal campo di gioco fino all\u2019inizio della partita successiva. Pu\u00f2 capitare che un colpo a distanza notevole non si rompa e non macchi un giocatore, in tal caso egli \u00e8 tenuto a chiedere conferma della mancata rottura del colpo ad un compagno di squadra o ad un componente dello staff. La partita \u00e8 da ritenersi conclusa quando una delle due squadre viene completamente eliminata.",
+        "h3-2": "<u>Cattura la Bandiera<\/u>",
+        "p-3": "Le due squadre in campo si affrontano partendo entrambe dalla propria base,con l\u2019obiettivo di catturare una bandiera posta nel centro del campo e ricondurla al punto di partenza. La particolarit\u00e0 di questa tipologia di gioco \u00e8 che un giocatore, una volta colpito ed eliminato, ha la facolt\u00e0 di proseguire il gioco solo dopo per\u00f2 aver raggiunto e toccato la propria base. Se un componente delle due squadre viene colpito nel momento in cui sta riconducendo la bandiera alla base \u00e8 tenuto a rilasciarla in terra esattamente nel punto in cui \u00e8 stato colpito per poi tornare alla base, toccarla e tornare in gioco. La bandiera non pu\u00f2 essere lanciata.",
+        "h3-3": "<u>Scorta il VIP<\/u>",
+        "p-4": "Le due squadre in campo si affrontano partendo da due punti prestabiliti del campo che verranno indicati dallo staff. Una delle due squadre ospiter\u00e0 tra i propri componenti il cosiddetto \u201cvip\u201d, che si distinguer\u00e0 dagli altri per una maglia colorata diversamente. L\u2019obiettivo della squadra che ospita il vip \u00e8 riuscire a scortare il soggetto vivo da un punto A ad un punto B del campo di gioco. Nel qual caso il vip venga colpito ed eliminato la partita \u00e8 da ritenersi conclusa; viene da s\u00e9 che l\u2019obiettivo della squadra avversaria al vip \u00e8 quello di eliminare almeno il vip prima che questo riesca a raggiungere il punto di destinazione.",
+        "h3-4": "<u>Caccia al Coniglio<\/u>",
+        "p-5": "Modalit\u00e0 perfetta per compleanni, addii al celibato\/nubilato o semplicemente per divertirsi fra amici. Si tratta in sostanza di un uno contro tutti in cui il \u201cfortunato\u201d prescelto deve riuscire ad eliminare tutti gli avversari in un tempo prestabilito. Il coniglio \u00e8 immune ai colpi quindi non soggetto ad eliminizione mentre tutti gli altri una volta macchiati sono eliminati."
+    },
+    "5647820d90bf5": {
+        "pageId": "5647820d90bf5",
+        "name": "Foto",
+        "url": "page\/photos",
+        "description": "",
+        "includeOnly": "0",
+        "h1-1": "Foto",
+        "h3-2": "Lavori in corso ...",
+        "p-1": "Foto scattate durante l'allestimento del campo",
+        "h3-1": "<u>Prima partita<\/u>",
+        "p-2": "Il gioco ha inizio!!!"
+    },
+    "5647e5e8143e0": {
+
+    },
+    "5647e659e89bc": {
+
+    },
+    "564b96a7a275c": {
+        "pageId": "564b96a7a275c",
+        "name": "Contatti",
+        "url": "page\/contact",
+        "description": "",
+        "includeOnly": "0",
+        "h3-1": "Contatti",
+        "p-1": "Email: <br><b>paintball.sarzana@gmail.it<\/b><br><br>Telefono:&nbsp;<br>+39 346 52 63 325 (Giulio)<br>+39 338 95 55 048 (Carlo)<br>+39 333 98 40 461 (Francesco)<br>+39 340 15 87 753 (Matteo)<br>",
+        "p-3": "",
+        "h3-2": "Dove Siamo"
+    }
+}
