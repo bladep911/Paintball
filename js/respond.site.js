@@ -3,7 +3,7 @@ var respond = respond || {};
 respond.site = {
 	
 	// site settings
-	settings: {"SiteId":"560bf96192dd9","Domain":"http:\/\/52.29.11.0\/sites\/paintball-sarzana","API":"http:\/\/52.29.11.0\/api","Name":"Paintball Sarzana","ImagesUrl":"http:\/\/52.29.11.0\/sites\/paintball-sarzana\/","LogoUrl":"files\/transparentLogo.png","AltLogoUrl":"files\/mobileLogo.png","PayPalLogoUrl":"","IconUrl":"","IconBg":"#FFFFFF","Theme":"getaway","PrimaryEmail":"andrea.boggia@gmail.com","Language":"en","Direction":"ltr","ShowCart":false,"ShowSettings":false,"ShowLanguages":false,"ShowLogin":false,"ShowSearch":true,"Currency":"USD","WeightUnit":"kgs","ShippingCalculation":"free","ShippingRate":"0.00","ShippingTiers":"","TaxRate":"0.00000","PayPalId":"","PayPalUseSandbox":"0","FormPublicId":""},
+	settings: {"SiteId":"560bf96192dd9","Domain":"http:\/\/52.29.11.0\/sites\/paintball-sarzana","API":"http:\/\/52.29.11.0\/api","Name":"Paintball Sarzana","ImagesUrl":"http:\/\/52.29.11.0\/sites\/paintball-sarzana\/","LogoUrl":"files\/transparentLogo.png","AltLogoUrl":"files\/mobileLogo.png","PayPalLogoUrl":"","IconUrl":"","IconBg":"#FFFFFF","Theme":"getaway","PrimaryEmail":"paintball.sarzana@gmail.com","Language":"it","Direction":"ltr","ShowCart":false,"ShowSettings":false,"ShowLanguages":false,"ShowLogin":false,"ShowSearch":true,"Currency":"USD","WeightUnit":"kgs","ShippingCalculation":"free","ShippingRate":"0.00","ShippingTiers":"","TaxRate":"0.00000","PayPalId":"","PayPalUseSandbox":"0","FormPublicId":""},
 	
 	// options
 	options: null,
